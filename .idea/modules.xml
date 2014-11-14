@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libs/SwipeMenuListlibrary/SwipeMenuListlibrary.iml" filepath="$PROJECT_DIR$/libs/SwipeMenuListlibrary/SwipeMenuListlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WJ_WifiManager.iml" filepath="$PROJECT_DIR$/WJ_WifiManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/libs/actionbarsherlock/actionbarsherlock.iml" />
+    </modules>
+  </component>
+</project>
+
